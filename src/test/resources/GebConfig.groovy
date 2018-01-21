@@ -34,4 +34,4 @@ driver = {
     new ChromeDriver(serviceBuilder.build())
 }
 
-baseUrl = "http://gebish.org"
+baseUrl = "http://unibet.fr"
