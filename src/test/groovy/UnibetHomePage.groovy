@@ -1,5 +1,3 @@
-package unibet
-
 import geb.Page
 import org.openqa.selenium.InvalidElementStateException
 

@@ -1,7 +1,4 @@
-package unibet
-
 import geb.spock.GebSpec
-import unibet.UnibetHomePage
 
 class UnibetSpec extends GebSpec {
 

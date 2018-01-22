@@ -22,6 +22,8 @@ File findDriverExecutable() {
                 it.name.contains("linux")
             } else if (IS_OS_MAC) {
                 it.name.contains("mac")
+            } else {
+                it.name.contains(".exe")
             }
         }
     }
